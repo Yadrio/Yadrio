@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 im Gabriel
 
 
 **Yadrio/Yadrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@
  
 - 🌱 I’m currently learning **Django, HTML, CSS e JS**
 
- ![image](https://github.com/user-attachments/assets/4cdf16e2-4236-4d9e-b003-96aa6412f5ae)
+ ![image](![image](https://github.com/user-attachments/assets/14f82b1b-7bda-46e7-901e-1f4481e10418))
 
 - 📫 How to reach me: ...
  - Discord: **yadrio**
