@@ -1,16 +1,15 @@
 ## Hi there 👋 im Gabriel
 
-
-**Yadrio/Yadrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on **Discord bots** 
 
  
-- 🌱 I’m currently learning **Django, HTML, CSS e JS**
+- 🌱 I’m currently learning **Django, HTML, CSS and JS**
 
 - 📫 How to reach me:
   - Discord: **yadrio**
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
    
 <!--
 - 🔭 I’m currently working on ...
