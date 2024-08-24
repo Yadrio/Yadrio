@@ -8,7 +8,8 @@
  
 - 🌱 I’m currently learning **Django, HTML, CSS e JS**
 
- 
+ ![image](https://github.com/user-attachments/assets/4cdf16e2-4236-4d9e-b003-96aa6412f5ae)
+
 - 📫 How to reach me: ...
  - Discord: **yadrio**
 
