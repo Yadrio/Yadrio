@@ -3,14 +3,16 @@
 
 **Yadrio/Yadrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on ...
-  - Discord bots 
+- 🔭 I’m currently working on **Discord bots** 
+
  
-- 🌱 I’m currently learning ...
-  - Aprendendo Django, HTML, CSS, JS
+- 🌱 I’m currently learning **Django, HTML, CSS e JS**
+
  
 - 📫 How to reach me: ...
-  - Discord: yadrio
+ - Discord: **yadrio**
+
+   
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
