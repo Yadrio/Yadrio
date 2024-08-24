@@ -1,4 +1,4 @@
-## Hello world! 👋 im Gabriel
+## Hello world👋 im Gabriel
 
 - 🔭 I’m currently working on **Discord bots** 
 
